@@ -18,3 +18,16 @@ higher order functions
     * accept callbacks as arguements
     * or do both
 
+<h1 align="center">
+Using closures with higher-order functions
+</h1>
+
+a closure, also known as lexical scoping, is a function that uses free variables, variable defined outside its scope.
+
+closures come in handy when writing HOF.
+
+<h1 align="center">
+Defining higher-order functions with arrow functions
+</h1>
+
+
